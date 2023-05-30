@@ -2,7 +2,7 @@
 Nova Co-Living Space is an PG website.
 
 ## Desktop
-![[desktop.png]]
+![[https://github.com/scarcemrk/Nova-Co-living-Space/blob/main/img/desktop.png]]
 
 ## Mobile
-![[mobile.png]]
+![[https://github.com/scarcemrk/Nova-Co-living-Space/blob/main/img/mobile.png?raw=true]]
