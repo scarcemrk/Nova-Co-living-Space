@@ -187,3 +187,8 @@ function wheel(e) {
 }
 window.addEventListener("mousewheel", wheel, false);
 window.addEventListener("wheel", wheel, false);
+
+// Disable right-click on the entire document
+document.addEventListener('contextmenu', function(event) {
+  event.preventDefault();
+});
